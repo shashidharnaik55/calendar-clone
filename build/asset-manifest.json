@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/calender-clone/static/css/main.ee339537.chunk.css",
+    "main.js": "/calender-clone/static/js/main.817dbc04.chunk.js",
+    "main.js.map": "/calender-clone/static/js/main.817dbc04.chunk.js.map",
+    "runtime-main.js": "/calender-clone/static/js/runtime-main.8c0827d2.js",
+    "runtime-main.js.map": "/calender-clone/static/js/runtime-main.8c0827d2.js.map",
+    "static/css/2.7e12749a.chunk.css": "/calender-clone/static/css/2.7e12749a.chunk.css",
+    "static/js/2.2502a2da.chunk.js": "/calender-clone/static/js/2.2502a2da.chunk.js",
+    "static/js/2.2502a2da.chunk.js.map": "/calender-clone/static/js/2.2502a2da.chunk.js.map",
+    "index.html": "/calender-clone/index.html",
+    "precache-manifest.6cf49fd92a9e92a59e2f7d35a8028c82.js": "/calender-clone/precache-manifest.6cf49fd92a9e92a59e2f7d35a8028c82.js",
+    "service-worker.js": "/calender-clone/service-worker.js",
+    "static/css/2.7e12749a.chunk.css.map": "/calender-clone/static/css/2.7e12749a.chunk.css.map",
+    "static/css/main.ee339537.chunk.css.map": "/calender-clone/static/css/main.ee339537.chunk.css.map",
+    "static/js/2.2502a2da.chunk.js.LICENSE.txt": "/calender-clone/static/js/2.2502a2da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c0827d2.js",
+    "static/css/2.7e12749a.chunk.css",
+    "static/js/2.2502a2da.chunk.js",
+    "static/css/main.ee339537.chunk.css",
+    "static/js/main.817dbc04.chunk.js"
+  ]
+}
