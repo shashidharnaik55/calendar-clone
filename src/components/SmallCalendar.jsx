@@ -23,7 +23,7 @@ class SmallCalendar extends Component {
                     </button>
                     <div class="collapse" id="collapseExample">
                         <ul>
-                            <li className="m-2"><input checked type="checkbox" class="form-check-input" id="exampleCheck1" /> Mukhtar Ahmad</li>
+                            <li className="m-2"><input checked type="checkbox" class="form-check-input" id="exampleCheck1" /> Shashidhar Naik</li>
                             <li className="m-2"><input checked type="checkbox" class="form-check-input" id="exampleCheck1" /> Birthdays</li>
                             <li className="m-2"><input checked type="checkbox" class="form-check-input" id="exampleCheck1" /> Reminders</li>
                             <li className="m-2"><input checked type="checkbox" class="form-check-input" id="exampleCheck1" /> Tasks</li>
